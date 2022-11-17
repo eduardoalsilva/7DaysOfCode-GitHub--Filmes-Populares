@@ -2,8 +2,14 @@
 
 [![GitHub](https://img.shields.io/github/license/eduardoalsilva/7DaysOfCode-GitHub--Filmes-Populares)](https://github.com/eduardoalsilva/7DaysOfCode-GitHub--Filmes-Populares/blob/main/LICENSE)
 
+
 # Sobre o projeto
 
 https://eduardoalsilva.github.io/7DaysOfCode-GitHub--Filmes-Populares/
 
-Neste 7DaysOfCode estamos trabalhando com um projeto em HTML e CSS que se chama Filme Populares. Eu adicionei alguns de meus filmes favoritos e também adicionei o do Batman de 2022 que eu ainda não assisti, mas já estava no projeto inicial desta edição do 7DaysOfCode.
+Filmes Populares é uma página web em HTML e CSS criada no 7DaysOfCode de GitHub da Alura. 
+
+O projeto consiste em uma página que contém filmes populares e meus filmes favoritos.
+
+
+# Layout do projeto
