@@ -26,7 +26,7 @@ O projeto consiste em uma página que contém filmes populares. O objetivo princ
 
 ## Implantação em produção
 
--GitHub pages
+- GitHub pages
 
 
 # Como executar o projeto
